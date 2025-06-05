@@ -1,4 +1,4 @@
-Hi, I’m @tsmaccabe
+Hi, I’m Theodore MacCabe. I write simulations and machine learning models.
 
 Project Repositories:
 - Deep Learning Timeseries Architecture Search (https://github.com/tsmaccabe/Deeplearning_Timeseries_Architecture_Search_0.4) - ReadMe Included
