@@ -7,4 +7,6 @@ Project Repositories:
 - Quantum Particle Simulation (https://github.com/tsmaccabe/Quantum_Annular_Wavefunction_Animation) - Article & Videos Included (https://open.substack.com/pub/logicaltightrope/p/quantum-particle-in-a-ring?r=46otvs&utm_campaign=post&utm_medium=web)
 - Classical Particle Simulation (https://github.com/tsmaccabe/elastic) - Videos Included
 
-Reach me at tsmaccabe@proton.me
+Reach me via
+- Email - tsmaccabe@proton.me
+- LinkedIn - www.linkedin.com/in/theodore-maccabe-852835263
